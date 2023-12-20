@@ -14,4 +14,6 @@ const juegoAdivinanza = () => {
     verificarAdivinanza(numeroSecreto, numeroAdivinado);
   }
 };
-juegoAdivinanza();
+juegoAdivinanza(); 
+
+
